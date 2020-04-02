@@ -1,0 +1,9 @@
+{
+	"disableAutoUpdate": false,
+    "name": "no-more-dead-mobs",
+    "author": "Snug",
+    "description": "Removes the effect of mobs dying",
+    "version": "1.0",
+	"servers": ["https://raw.githubusercontent.com/Snugglez/no-more-dead-mobs/master/"],
+	"supportUrl": "https://github.com/Snugglez/no-more-dead-mobs/blob/master/README.md"
+}
